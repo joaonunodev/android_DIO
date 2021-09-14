@@ -17,3 +17,9 @@ Projeto do Bootcamp para fazer uma lista de contatos
 
 ### 5- coin-converter 
 Projeto do Bootcamp para utilização de um API para fazer um Conversor de Moedas
+
+### 6- lemonade 
+App do curso Google
+
+### 7 - DiceRller
+App do curso Google
