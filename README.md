@@ -21,5 +21,5 @@ Projeto do Bootcamp para utilização de um API para fazer um Conversor de Moeda
 ### 6- lemonade 
 App do curso Google
 
-### 7 - DiceRller
+### 7 - DiceRoller
 App do curso Google
